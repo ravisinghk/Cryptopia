@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cryptopia/static/css/main.32ea9b15.css",
-    "main.js": "/Cryptopia/static/js/main.c2b75f8a.js",
+    "main.js": "/Cryptopia/static/js/main.f949f1fd.js",
     "static/media/cryptocurrency.png": "/Cryptopia/static/media/cryptocurrency.1548aced3f0605895bac.png",
     "index.html": "/Cryptopia/index.html",
     "main.32ea9b15.css.map": "/Cryptopia/static/css/main.32ea9b15.css.map",
-    "main.c2b75f8a.js.map": "/Cryptopia/static/js/main.c2b75f8a.js.map"
+    "main.f949f1fd.js.map": "/Cryptopia/static/js/main.f949f1fd.js.map"
   },
   "entrypoints": [
     "static/css/main.32ea9b15.css",
-    "static/js/main.c2b75f8a.js"
+    "static/js/main.f949f1fd.js"
   ]
 }
