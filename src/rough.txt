@@ -1,0 +1,8 @@
+sx={{
+        height: "100vh",
+        bgcolor: "#00243D",
+        display: "flex",
+        flexDirection: "column",
+        gap: "30px",
+        alignItems: "center"
+      }}
